@@ -24,7 +24,6 @@
     }, 1000); //delay of 1 second
   });
 
-
 //close one flap first and then the other after a delay
   closeB.addEventListener('click', function () {
     card.setAttribute('class', 'close-half');
